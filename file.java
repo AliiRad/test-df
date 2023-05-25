@@ -3,4 +3,5 @@ public static void main(String[] args){
   public String sayHello(){
     return "Hello";
   }
+  System.out.println(sayHello());
 }
